@@ -1,0 +1,13 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python virtual environments
+venv/
+.env/
+
+# Compiled Python files
+*.pyc
+
+
+# Temporary files
+*.log
